@@ -1,1 +1,0 @@
-{"class":"org.apache.spark.ml.feature.StringIndexerModel","timestamp":1727461604588,"sparkVersion":"3.5.3","uid":"StringIndexer_fabbc698eab4","paramMap":{"outputCol":"AirportCode_indexed","handleInvalid":"keep","inputCol":"AirportCode"},"defaultParamMap":{"outputCol":"StringIndexer_fabbc698eab4__output","stringOrderType":"frequencyDesc","handleInvalid":"error"}}
